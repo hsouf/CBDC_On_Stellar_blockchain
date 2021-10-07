@@ -2,6 +2,7 @@
 Building a CBDC on the Stellar network (Proof of concept) COMING SOON
 
 
+![Capture d’écran 2021-10-07 à 5 21 06 p m](https://user-images.githubusercontent.com/37840702/136425296-0a48db25-706c-4754-bc23-4258d626de3a.png)
 
 # 1-What is a CBDC exactly?
 In short, CBDC is a fiat currency issued by central banks in digital form in place of, or as a complement to, physical currency (banknotes and coins). In opposition to the traditional cash system, digital money can be accessed more broadly than reserves and has potentially greater functionality for retail transactions than cash.
